@@ -1,17 +1,4 @@
-### Автоматизация проекта 
-TO DO:
-1. (+) Создать проект локально 
-2. (+) Создать репозиторий 
-3. (+) Инициализировать репозиторий локально
-4. (-) Сгенерировать ci_token в GitHub для отчетов
-5. (-) Сделать первый коммит в origin/main
-6. (-) Создать ветку gh-pages
-7. (-) Убедиться в инициализации gh-pages
-8. (-) Построить структуру проекта
-9. (-) Подключить pytest
-10. (-) Подключить allure
-11. (-) Написать Dockerfile
-12. (-) Написать docker-compose
-13. (-) Прогнать все локально
-14. (-) Написать базовый .github/workflows/config.yml
-15. (-) Написать полный конфиг для хранения истории запусков
+### Test automation project
+#### Source: https://opensource-demo.orangehrmlive.com/
+#### Tools:
+Python, Pytest, WebDriver, Docker, Allure, GitHub Actions  
